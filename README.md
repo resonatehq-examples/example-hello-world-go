@@ -6,6 +6,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://resonatehq.github.io/examples-ci/">
+    <img src="https://img.shields.io/endpoint?url=https://resonatehq.github.io/examples-ci/status/example-hello-world-go.json" alt="examples-ci status">
+  </a>
+</p>
+
 # Hello World | Resonate Go SDK
 
 The canonical Resonate program: register a function, invoke it durably, read the result.
