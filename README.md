@@ -110,6 +110,7 @@ example-hello-world-go/
 
 ## Next steps
 
+- **Coming from Temporal?** See [MIGRATING-FROM-TEMPORAL.md](MIGRATING-FROM-TEMPORAL.md) — a side-by-side port of the matching `temporalio/samples-go` example.
 - [Get started](https://docs.resonatehq.io/get-started) — install paths + first-program walkthrough.
 - [Durable execution concepts](https://docs.resonatehq.io/concepts) — what makes invocations durable + how the runtime resumes them.
 - [`example-recursive-factorial-go`](https://github.com/resonatehq-examples/example-recursive-factorial-go) — see what a recursive workflow + worker/client split looks like in Go.
